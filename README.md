@@ -6,11 +6,9 @@
 
 A Computer Numerical Control (CNC) Pen Plotter that converts G-code instructions into precise drawings. This project utilizes an Arduino Uno to control stepper motors for accurate pen movement across three axes.
 
-
+## Video Preview
 
 https://github.com/user-attachments/assets/6813148b-2c78-4a53-8cfc-b47792aa9010
-
-
 
 ## Features
 - G-code Parsing – Interprets and executes G-code commands for automated plotting.
@@ -23,5 +21,10 @@ https://github.com/user-attachments/assets/6813148b-2c78-4a53-8cfc-b47792aa9010
 - 28BYJ-48 Stepper Motors
 - ULN2003 Stepper Motor Drivers
 - Open-Source 3D-Printed Frame
+
+## Diagram
+
+![cnc-plotter- machine-diagram](https://github.com/user-attachments/assets/e900a476-b6e9-4777-9238-9b2ca6f90474)
+
 
 This project is an excellent introduction to CNC automation, Arduino programming, and mechanical design.
